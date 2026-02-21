@@ -1,0 +1,20 @@
+# Priscila Profesor – Lernbot
+
+## Projektziel
+Iteratives Sprachlern-Framework mit Rollenspielmechanik.
+
+## Hauptprinzip
+Hypothese → Intervention → Durchführung → Evaluation → Entscheidung
+
+## Architektur
+### Priscila_Profesor_CORE
+- statisch, wird nur durch den User geändert.
+### Priscila_Profesor_STATE
+- dynamisch, wird durch ChatGPT am Ende einer Session ergänzt.
+### Priscila_Profesor_Vokabeln
+- dynamisch, wird von ChatGPT inkrementell bei der Einführung einer neuen Vokabel ergänzt. 
+### Priscila_Profesor_EXPERIMENTAL_LOG
+- dynamisch, wird durch ChatGPT am Ende einer Sitzung durch Befehl des Users ergänzt.
+
+## Aktueller Fokus
+Einrichtung des Projekts
