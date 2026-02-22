@@ -1,14 +1,13 @@
---- BEGINN TEMPLAT ---
 # Experiment Log
 
 ## Experiment-ID:
-## Datum:
-
-## Hypothese:
-(Welcher Mechanismus wird getestet?)
+## Datum: 2026-02-22
 
 ## Intervention:
-(Was wird verändert?)
+(Was wurde im Vergleich zum letzten Mal verändert?)
+
+## Hypothese:
+
 
 ## Beobachtung:
 (Was ist während der Session passiert?)
@@ -18,4 +17,3 @@
 
 ## Entscheidung:
 (Übernehmen / Verwerfen / Anpassen)
---- ENDE TEMPLAT ---
